@@ -1,0 +1,70 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: rgb(255, 255, 255);
+}
+h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-style: normal;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 22px;
+}
+
+li {
+  font-size: 20px;
+}
+
+article header p {
+  font-style: italic;
+}
+
+article h2 p {
+  text-align: center;
+}
+article header img {
+  text-align: center;
+}
+header article strong p {
+  text-align: center;
+}
+header p {
+  text-align: center;
+}
+
+li p em {
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
+}
+body {
+  background-color: black;
+}
